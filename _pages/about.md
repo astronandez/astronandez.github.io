@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal and Academic Site"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 EDUCATION:
-=====
+-----
 **University of California Los Angeles, School of Engineering**<br>
 *Doctor of Philosophy in Electrical and Computer Engineering (Expected 2030)*<br>
 Faculty Advisor: Dr. Ankur Mehta
@@ -19,7 +19,7 @@ Faculty Advisor: Dr. Ankur Mehta
 (Dean's list - SPR. 2020, SUM. 2020, FALL 2020, WIN. 2021, SPR. 2021, WIN. 2022)
 
 RESEARCH EXPERIENCE:
-=====
+-----
 **Automated Domain-Understanding and Collaborative Agency**<br>
 *University of California Los Angeles, Los Angeles, CA (Sep. 2023 - Present)*
 * Curated a custom dataset of over 10,000 images categorizing vehicles into groups depending on manufacturer-specified body style classes (Sedan, Pickup Truck, etc.) with normalized bounding box coordinates (Available Here)
