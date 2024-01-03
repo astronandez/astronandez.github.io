@@ -20,8 +20,8 @@ RESEARCH EXPERIENCE:
 -----
 **Automated Domain-Understanding and Collaborative Agency**<br>
 *University of California Los Angeles, Los Angeles, CA (Sep. 2023 - Present)*
-* Curated a custom dataset of over 10,000 images categorizing vehicles into groups depending on manufacturer-specified body style classes (Sedan, Pickup Truck, etc.) with normalized bounding box coordinates (Available Here)
-* Correlated vehicle Make and Model to manufacturer-specified vehicle curb weights using publicly available web-scrapped data and the CompCars Dataset.
+* Curated a custom dataset of over 10,000 images categorizing vehicles into groups depending on manufacturer-specified body style classes (Sedan, Pickup Truck, etc.) with normalized bounding box coordinates [(Available Here)](https://universe.roboflow.com/research-projects-qodgb/vehicle-body-style-dataset)
+* Correlated vehicle Make and Model to manufacturer-specified vehicle curb weights using publicly available web-scrapped data and the [CompCars Dataset](https://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/).
 * Developed a custom computer vision object detection model based on You-Only-Look-Once (YOLOv5) architecture in a Pytorch Framework used to identify vehicles by body style and derive an estimated mass.
 * Investigating an adaptive Kalman filter object tracking method that seeks to estimate and update vehicle mass estimation using prior knowledge and linear dynamics analysis of agent properties.
 
