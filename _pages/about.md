@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 EDUCATION:
 -----
 **University of California Los Angeles, School of Engineering**<br>
@@ -28,7 +26,7 @@ RESEARCH EXPERIENCE:
 * Investigating an adaptive Kalman filter object tracking method that seeks to estimate and update vehicle mass estimation using prior knowledge and linear dynamics analysis of agent properties.
 
 PROFESSIONAL EXPERIENCE:
-=====
+-----
 **NASA Pathways Internship, Flight Controller (CRONUS Discipline)**<br>
 *NASA Johnson Space Center, Houston, TX (July 2022 - Sep. 2022)*
 * Updated baseplate temperature computations in accordance with flight rules used to improve data reliability for staff monitoring the avionics systems onboard the International Space Station.
@@ -60,7 +58,7 @@ development of a time-based physics response algorithm to replicate the input of
 * Programmed a proof of concept test with the Modular Integrated Stackable Layers (MISL) PCBs for a new conformal coating material of interest to the branch executive team.
 
 DEVELOPED CAREER SKILLS:
-=====
+-----
 ### **Key Technical Skills**:
 * Proficient understanding of creating linear feedback control systems using computational and analytical techniques such as transfer functions, state-space systems, and Bode/Nyquist plots in Python
 * Knowledgeable in PCB design, firmware development, and system integration with mechanical components.
@@ -86,7 +84,7 @@ DEVELOPED CAREER SKILLS:
 **Software Experience:** Anaconda, Jupyter Notebook, Unity Engine, Ni MultiSim, Quartus Prime, LTSpice, Plexim, LabVIEW, PSoC Creator, Altium Designer, SolidWorks, Arduino, VSCode, MS Office, Git, PyTorch, TensorFlow, TensorRT, ONNXRuntime, Scikit Learn, OpenCV, CUDA Toolkit, OpenXR Toolkit
 
 RELEVANT EXTRACURRICULAR EXPERIENCE:
-=====
+-----
 **VR Software Developer**<br>
 *The Seattle Public Library, Seattle, WA (Dec. 2020 - July 2021)*
 * Developed an interactive world using the Unity Engine with the goal of lessening the impact of the COVID-19 pandemic on the mental health of adolescents ages 13 - 17.
@@ -98,7 +96,7 @@ RELEVANT EXTRACURRICULAR EXPERIENCE:
 * Derived a finite-state machine for a power distribution board that monitors rail properties and battery life from INA226 using i2c protocol
 
 AWARDS AND HONORS:
-=====
+-----
 * Myly U. Vu SeaTec Consulting Endowment Scholarship (Sep. 2022)
 * Annual Dean's List 2020-2021 (June 2021)
 * Direct admission to the College of Engineering and Honors College (Sep. 2018)
@@ -109,7 +107,7 @@ AWARDS AND HONORS:
 * Quarterly Dean's List (SPR. 2020 - SPR. 2021, WIN. 2022)
 
 ADDITIONAL EXTRACURRICULARS:
-=====
+-----
 * University of Washington Boxing Team (Nov. 2018 - June 2022)
 * Sigma Lambda Beta Fraternity (President, Vice President, Secretary) (Oct. 2020 - Sep. 2022)
 * Student Body President (Sep. 2017 - June 2018)
