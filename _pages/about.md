@@ -1,5 +1,6 @@
 ---
-permalink: /
+permalink: /\
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -97,18 +98,18 @@ RELEVANT EXTRACURRICULAR EXPERIENCE:
 
 AWARDS AND HONORS:
 -----
+* Washington State Opportunity Scholarship (Sep. 2018 - June 2023)
 * Myly U. Vu SeaTec Consulting Endowment Scholarship (Sep. 2022)
 * Annual Dean's List 2020-2021 (June 2021)
-* Direct admission to the College of Engineering and Honors College (Sep. 2018)
-* Olga and James McEwing Endowed Scholarship (Sep. 2018)
+* Quarterly Dean's List (SPR. 2020 - SPR. 2021, WIN. 2022)
 * Honors Undergraduate Scholar Award (Sep. 2018 - June 2022)
 * College of Engineering Dean Scholarship (Sep. 2018 - June 2020)
-* Washington State Opportunity Scholarship (Sep. 2018 - June 2023)
-* Quarterly Dean's List (SPR. 2020 - SPR. 2021, WIN. 2022)
+* Direct admission to the College of Engineering and Honors College (Sep. 2018)
+* Olga and James McEwing Endowed Scholarship (Sep. 2018)
 
 ADDITIONAL EXTRACURRICULARS:
 -----
 * University of Washington Boxing Team (Nov. 2018 - June 2022)
-* Sigma Lambda Beta Fraternity (President, Vice President, Secretary) (Oct. 2020 - Sep. 2022)
-* Student Body President (Sep. 2017 - June 2018)
+* Sigma Lambda Beta Fraternity - President, Vice President, Secretary (Oct. 2020 - Sep. 2022)
 * Mixed Martial Arts Head Instructor (Jan. 2013 - Sep. 2020)
+* Student Body President (Sep. 2017 - June 2018)
